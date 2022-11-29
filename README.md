@@ -7,6 +7,12 @@ Zoomなどのビデオ会議システムで使える仮想カメラ。下記の�
 CaptionCam （字幕カメラ）  
 https://github.com/sksthrs/CaptionCam
 
+# インストーラのダウンロード
+「Release」からダウンロードできます。
+
+最新版  
+https://github.com/sksthrs/VCam4Caption/releases/download/v1.0.0/VCam4Caption_1.0.exe
+
 # 対応OS（画面キャプチャAPIの都合）
 - Windows 10 2004以降（大企業向けLTSCでもない限りWindows 10はほとんど該当するはず）
 - Windows 11
