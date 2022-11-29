@@ -1,0 +1,7 @@
+LIBRARY	"VCam4Cap_32"
+
+EXPORTS
+	DllGetClassObject	      PRIVATE	 
+	DllCanUnloadNow           PRIVATE	 
+	DllRegisterServer	      PRIVATE	 
+	DllUnregisterServer       PRIVATE 
